@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75899299181",
+    "project_id": "visitor-management-syste-552f2",
+    "storage_bucket": "visitor-management-syste-552f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75899299181:android:735bde96b6dd042f252664",
+        "android_client_info": {
+          "package_name": "com.zherotech.vms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75899299181-tkbmr1vvgnahqeh9rfk4ll9i1imigll4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrY0fWoNvwF4_PoLN7EcN3n0KeXBHxfJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75899299181-tkbmr1vvgnahqeh9rfk4ll9i1imigll4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
